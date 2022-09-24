@@ -16,26 +16,12 @@ Save the list to the database
 Retrieve the list from the database
 Display the list in a recycler view
 Screenshots -
-![Screenshot (10)](https://user-images.githubusercontent.com/91263896/192096530-f226bcec-11ea-4ab3-99b7-3f23adc55169.png)
-![Screenshot (11)](https://user-images.githubusercontent.com/91263896/192096541-abedc13d-e8d4-4230-a47b-ff3d76c6c226.png)
-![Screenshot (28)](https://user-images.githubusercontent.com/91263896/192096549-f8d9f5f2-f1c4-445a-ad2b-799d517d5dcb.png)
-![Screenshot (29)](https://user-images.githubusercontent.com/91263896/192096556-d7f442d3-7b99-4fc2-8376-d9791da38c2f.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/91263896/192096716-837568b0-18c4-4e4c-8a8c-0adb27250958.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/91263896/192096723-d39f5c30-5130-4966-80b7-44518367a2cd.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/91263896/192096729-5c71e743-e462-4a32-8962-29ec9faad23e.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/91263896/192096733-21529faf-a1cc-459c-bc9b-4b3d79ff51d1.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/91263896/192096738-1ee1bcc1-737c-4cd0-8a18-41d97372f2dc.png)
 
-
-
-Files Used
-File Type	            Files Name
-Layout Files	    - activity_main.xml
-                  - groceryadapter.xml
-                  - grocerydialog.xml
-Adapter File	    -GroceryAdapter.kt
-Database File    	- GroceryDao
-                  - GroceryDatabase
-                  - GroceryRepository
-UI Files	        - MainActivity.kt
-                  - GroceryItemDialog.kt
-                  - GroceryViewModel.kt
-                  - GroceryViewModelFactory.kt
 
 Author -
 Karthikai Rawat

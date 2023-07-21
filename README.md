@@ -2,12 +2,9 @@
 Virtual Internship - Android Application Development Using Kotlin
 
 
-Project Name -
-
-Grocery app using kotlin
-
+Project Name - Grocery app using kotlin
+Demo-Video: https://drive.google.com/file/d/1mP3SXDmdgKzmKy1hGqBMgrlZr4cNw_I7/view?usp=sharing
 Description -
-
 As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
 This app is a simple grocery list app that allows you to add, edit, and delete items from your list.
 Features -
